@@ -4,7 +4,6 @@
 
 require 'bundler' 
 Bundler.require
-require "tty-prompt"
 
 
 require_relative './app_sinatra/app_sinatra.rb'
